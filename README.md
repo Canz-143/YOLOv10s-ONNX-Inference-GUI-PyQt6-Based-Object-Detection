@@ -59,9 +59,6 @@ YOLOv10s-Inference-GUI/
 - Implement multi-threaded video processing for better performance.
 - Improve UI for real-time frame display.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 - [Unity Perception Package](https://github.com/Unity-Technologies/com.unity.perception)
