@@ -15,7 +15,7 @@ class YOLOInferenceApp(QWidget):
         self.image_path = None
 
     def initUI(self):
-        self.setWindowTitle("YOLOv8 ONNX Inference")
+        self.setWindowTitle("YOLOv10 ONNX Inference")
         self.setGeometry(100, 100, 500, 300)
 
         layout = QVBoxLayout()
