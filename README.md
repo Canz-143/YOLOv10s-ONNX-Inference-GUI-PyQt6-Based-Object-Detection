@@ -33,7 +33,7 @@ cd YOLOv10s-Inference-GUI
 2. **Load the YOLOv10s ONNX model** by clicking the "Select ONNX Model" button.
 3. **Select an Image or Video File** for inference.
 4. Click **"Run Inference"** to start processing.
-5. View the results in an OpenCV window. Press 'q' to exit video inference mode.
+5. View the results in a seprate window. Press 'q' to exit video inference mode.
 
 ## Sample
 Here are some sample detections of the model:
