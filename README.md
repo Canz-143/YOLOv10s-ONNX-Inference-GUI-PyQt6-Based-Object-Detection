@@ -35,6 +35,13 @@ cd YOLOv10s-Inference-GUI
 4. Click **"Run Inference"** to start processing.
 5. View the results in an OpenCV window. Press 'q' to exit video inference mode.
 
+## Sample
+Here are some sample detections of the model:
+
+- [Sample Detection 1](https://drive.google.com/file/d/1UJjVV1T6F5_tQ2oWjA_KYndWkta88Gm7/view?usp=sharing)
+- [Sample Detection 2](https://drive.google.com/file/d/1hJkasN5aoTCMgVMSqrQ6YqCQOGnW6Yyp/view?usp=sharing)
+- [Sample Detection 3](https://drive.google.com/file/d/1fLOLbaN_RaykxrMgUdz6ozpXWKAGCd_b/view?usp=sharing)
+
 ## File Structure
 ```
 YOLOv10s-Inference-GUI/
